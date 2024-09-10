@@ -34,3 +34,16 @@ Scrum Master vs Product Owner:
         ▪ Occurs at the end of the sprint
         ▪ Discuss work complete and move incomplete work to backlog
         ▪ Close sprint
+
+Difference between Epic, Story, Bug, and Task: 
+
+    Epic:
+        ▪ Captures a large body of work that can be broken down into several
+        smaller stories
+    Story:
+        ▪ A software system requirement that is expressed in a few short
+        sentences and is part of the epic
+    Bug:
+        ▪ A issue that needs urgent fix.
+    Task:
+        ▪ Part of a story that a team member will complete
