@@ -1,12 +1,12 @@
 Agile Development:
 
     Pros:
-    -Flexibility
-    -Highest Prioirity gets completed first
-    -Simple
-    -Organized
+        -Flexibility
+        -Highest Prioirity gets completed first
+        -Simple
+        -Organized
 
     Cons:
-    -More time to complete work
-    -Greater demand from team members
-    -Less predictable
+        -More time to complete work
+        -Greater demand from team members
+        -Less predictable
