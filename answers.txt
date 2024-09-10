@@ -1,0 +1,49 @@
+Agile Development:
+
+    Pros:
+        -Flexibility
+        -Highest Prioirity gets completed first
+        -Simple
+        -Organized
+
+    Cons:
+        -More time to complete work
+        -Greater demand from team members
+        -Less predictable
+
+Scrum Master vs Product Owner:
+    The product owner sets direction for the team, handles release
+    management and stakeholder management.
+
+    The Scrum Master handles all scrum related tasks including JIRA tooling, facilitating sprints
+    and meetings, and standups.
+
+
+3 Types of meetings that happen on a sprint cycle: 
+
+    Sprint Planning Meeting:
+        ▪ Determine what to complete in the coming sprint
+        ▪ Move stories in sprint scope from backlog to current sprint
+        ▪ Determine story points and assign stories to team
+        ▪ Start sprint
+    Daily Scrum/Standup Meeting:
+        ▪ Short meeting that happens every day of the sprint
+        ▪ Usually, 10 mins long
+        ▪ Team members discuss work completed, work plan for the day and any blockers
+    Sprint Retrospective Meeting:
+        ▪ Occurs at the end of the sprint
+        ▪ Discuss work complete and move incomplete work to backlog
+        ▪ Close sprint
+
+Difference between Epic, Story, Bug, and Task: 
+
+    Epic:
+        ▪ Captures a large body of work that can be broken down into several
+        smaller stories
+    Story:
+        ▪ A software system requirement that is expressed in a few short
+        sentences and is part of the epic
+    Bug:
+        ▪ A issue that needs urgent fix.
+    Task:
+        ▪ Part of a story that a team member will complete
