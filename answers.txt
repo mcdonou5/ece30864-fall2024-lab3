@@ -17,3 +17,20 @@ Scrum Master vs Product Owner:
 
     The Scrum Master handles all scrum related tasks including JIRA tooling, facilitating sprints
     and meetings, and standups.
+
+
+3 Types of meetings that happen on a sprint cycle: 
+
+    Sprint Planning Meeting:
+        ▪ Determine what to complete in the coming sprint
+        ▪ Move stories in sprint scope from backlog to current sprint
+        ▪ Determine story points and assign stories to team
+        ▪ Start sprint
+    Daily Scrum/Standup Meeting:
+        ▪ Short meeting that happens every day of the sprint
+        ▪ Usually, 10 mins long
+        ▪ Team members discuss work completed, work plan for the day and any blockers
+    Sprint Retrospective Meeting:
+        ▪ Occurs at the end of the sprint
+        ▪ Discuss work complete and move incomplete work to backlog
+        ▪ Close sprint
