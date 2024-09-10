@@ -10,3 +10,10 @@ Agile Development:
         -More time to complete work
         -Greater demand from team members
         -Less predictable
+
+Scrum Master vs Product Owner:
+    The product owner sets direction for the team, handles release
+    management and stakeholder management.
+
+    The Scrum Master handles all scrum related tasks including JIRA tooling, facilitating sprints
+    and meetings, and standups.
